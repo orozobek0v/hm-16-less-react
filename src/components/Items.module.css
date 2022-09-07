@@ -1,0 +1,46 @@
+.container {
+  width: 600px;
+  background: rgb(113, 54, 173);
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+}
+.uppdatevalue {
+  width: 400px;
+  height: 60px;
+  text-align: center;
+  margin: 0 auto;
+  border-radius: 10px;
+  background: chartreuse;
+  margin-top: 20px;
+}
+.uppdatevalue h1 {
+  font-size: 23px;
+  text-transform: capitalize;
+}
+.input {
+  width: 400px;
+  height: 50px;
+  border: 2px solid rgb(6, 68, 95);
+  border-radius: 10px;
+  outline: none;
+  margin: 0 auto;
+  margin-top: 10px;
+  font-size: 23px;
+}
+.static-items {
+  width: 400px;
+  height: 60px;
+  text-align: center;
+  margin: 0 auto;
+  border-radius: 10px;
+  background: rgb(228, 43, 83);
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.static-items h1 {
+  font-size: 23px;
+  text-transform: capitalize;
+  padding-top: 10px;
+}
