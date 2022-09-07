@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hm-16-less-react/static/css/main.73b511ca.css",
+    "main.js": "/hm-16-less-react/static/js/main.2b30fd41.js",
+    "index.html": "/hm-16-less-react/index.html",
+    "main.73b511ca.css.map": "/hm-16-less-react/static/css/main.73b511ca.css.map",
+    "main.2b30fd41.js.map": "/hm-16-less-react/static/js/main.2b30fd41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73b511ca.css",
+    "static/js/main.2b30fd41.js"
+  ]
+}
